@@ -2,7 +2,9 @@
 #### A simple chat app developed using socket.io in React JS
 
 You can add additional css and improvements in the UI. The idea of this tutorial is to enable you for developing real-time chat application using socket.io in reactjs so UI is bare minimum.
+
 The end product will look like this one. 
+![Aap demo](https://github.com/aamirjaved844/ReactSocketChat/blob/main/app_demo.gif?raw=true)
 
 ## Installation Steps
 
@@ -23,11 +25,6 @@ npm start
 ```
 ###### You are good to go now!
 
-#
-#
-#
-#
-#
 
 ## License
 
