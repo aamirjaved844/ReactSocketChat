@@ -5,7 +5,8 @@ The idea of this tutorial is to enable you for developing real-time chat applica
 
 You can go through the [step by step guide](https://www.youtube.com/watch?v=aNQ7vyQD8_I) to implement this live chat app.
 The end product will look like this one. 
-![Aap demo](https://github.com/aamirjaved844/ReactSocketChat/blob/main/app_demo.gif?raw=true)
+
+![App demo](https://github.com/aamirjaved844/ReactSocketChat/blob/main/app_demo.gif?raw=true)
 
 
 ## Installation Steps
