@@ -3,6 +3,7 @@
 
 The idea of this tutorial is to enable you for developing real-time chat application using socket.io in reactjs so UI is bare minimum. Feel free to add css and UI improvements after code cehckout.
 
+### Step by Step Guide: [Video Tutorial](https://www.youtube.com/watch?v=cS6Zzj8BSHM) 
 You can go through the [step by step guide](https://www.youtube.com/watch?v=cS6Zzj8BSHM) to implement this live chat app.
 The end product will look like this one. 
 
